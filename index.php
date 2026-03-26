@@ -6,7 +6,7 @@
 <body>
 
 <?php
-    echo "My Name is Inigo Montoya"
+    echo "My Name is PRIYANSHU SINGLA"
 ?>
 
 </body>
